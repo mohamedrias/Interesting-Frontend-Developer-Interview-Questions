@@ -1,5 +1,5 @@
-Interesting-front-end-developer-interview-questions with answers & explanations
-===================================================
+Interesting front-end developer interview questions with answers & explanations
+
 
 This repository will contain interesting front-end developer interview questions with answers and suggestions.
 
